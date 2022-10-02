@@ -55,7 +55,7 @@ cd first-contribution/data/
 ```
 Open contributors.js in your favourite text editor and add a new object below the existing objects in the format given below.
 
-```json
+```json[
  {
         name : "Your Name",
         branch : "Your stream/branch",
@@ -64,7 +64,17 @@ Open contributors.js in your favourite text editor and add a new object below th
         linkedin : "LinkedIn Profile URL",
         github : "GitHub Profile URL",
         gender : "Your Gender"
-    },
+       }, 
+        
+        
+        name : Moumita Podder,
+        branch : computer sceince and engineering,
+        college : "Siliguri institue of technology",
+        year : 2024, //Year of Pass Out
+        linkedin : "https://www.linkedin.com/in/moumita-podder-663507217",
+        github : "https://GitHub.com/moumitapodder",
+        gender : "Moumita Podder"
+    }
 ```
 
 ## 4. Creating a Pull request
