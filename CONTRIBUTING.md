@@ -66,7 +66,7 @@ Open contributors.js in your favourite text editor and add a new object below th
         gender : "Your Gender"
        }, 
         
-        
+        {
         name : Moumita Podder,
         branch : computer sceince and engineering,
         college : "Siliguri institue of technology",
@@ -75,6 +75,7 @@ Open contributors.js in your favourite text editor and add a new object below th
         github : "https://GitHub.com/moumitapodder",
         gender : "Moumita Podder"
     }
+    ];
 ```
 
 ## 4. Creating a Pull request
